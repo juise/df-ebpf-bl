@@ -1,0 +1,5 @@
+*.elf
+.ll
+
+# Dependency directories (remove the comment below to include it)
+linux-headers
